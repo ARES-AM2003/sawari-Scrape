@@ -4,7 +4,7 @@ geckodriver.log
 *.xlsx
 *.json
 *.png
-
+*.html
 # Python bytecode files
 __pycache__/
 *.pyc

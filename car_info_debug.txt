@@ -4199,3 +4199,780 @@ Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
 Seating Capacity: 5
 Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
 --------------------------------------------------------------------------------
+URL 1/1 - Model: SYROS, Variant: HTK OPT TURBO
+Price: 9.39 Lakh
+URL 1/1 - Model: SYROS, Variant: HTK OPT DIESEL
+Price: 10.14 Lakh
+URL 1/1 - Model: SYROS, Variant: HTK TURBO
+Price: 8.67 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.2 kmpl
+URL 1/1 - Model: SYROS, Variant: HTK PLUS TURBO
+Price: 10.74 Lakh
+URL 1/1 - Model: SYROS, Variant: HTK PLUS DIESEL
+Price: 11.46 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: SYROS, Variant: HTK PLUS TURBO DCT
+Price: 11.92 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.2 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.2 kmpl
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: SYROS, Variant: HTX PLUS TURBO DCT
+Price: 14.56 Lakh
+Seating Capacity: 5
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: SYROS, Variant: HTX TURBO DCT
+Fuel Type: Petrol, Petrol Mileage ARAI: 17.68 kmpl
+Price: 13.29 Lakh
+URL 1/1 - Model: SYROS, Variant: HTX DIESEL
+Price: 12.80 Lakh
+URL 1/1 - Model: SYROS, Variant: HTX TURBO
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Price: 12.10 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 17.68 kmpl
+Seating Capacity: 5
+Fuel Type: Petrol, Petrol Mileage ARAI: 17.68 kmpl
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.2 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: SYROS, Variant: HTX PLUS DIESEL AT
+Price: 15.22 Lakh
+URL 1/1 - Model: SYROS, Variant: HTX PLUS OPT DIESEL AT
+Price: 15.94 Lakh
+URL 1/1 - Model: SYROS, Variant: HTX PLUS OPT TURBO DCT
+Price: 15.29 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 17.68 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: SYROS, Variant: HTK TURBO
+Price: 8.67 Lakh
+URL 1/1 - Model: SYROS, Variant: HTK OPT TURBO
+URL 1/1 - Model: SYROS, Variant: HTK OPT DIESEL
+Price: 10.14 Lakh
+Price: 9.39 Lakh
+URL 1/1 - Model: SYROS, Variant: HTK PLUS TURBO
+Price: 10.74 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.2 kmpl
+Seating Capacity: 5
+URL 1/1 - Model: SYROS, Variant: HTK PLUS TURBO DCT
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Price: 11.92 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.2 kmpl
+URL 1/1 - Model: SYROS, Variant: HTX TURBO
+Seating Capacity: 5
+Price: 12.10 Lakh
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.2 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: SYROS, Variant: HTX DIESEL
+URL 1/1 - Model: SYROS, Variant: HTX TURBO DCT
+Price: 12.80 Lakh
+Price: 13.29 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 17.68 kmpl
+URL 1/1 - Model: SYROS, Variant: HTK PLUS DIESEL
+Price: 11.46 Lakh
+URL 1/1 - Model: SYROS, Variant: HTX PLUS TURBO DCT
+Price: 14.56 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.2 kmpl
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Petrol, Petrol Mileage ARAI: 17.68 kmpl
+Seating Capacity: 5
+Fuel Type: Petrol, Petrol Mileage ARAI: 17.68 kmpl
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: SYROS, Variant: HTX PLUS DIESEL AT
+Price: 15.22 Lakh
+URL 1/1 - Model: SYROS, Variant: HTX PLUS OPT TURBO DCT
+Price: 15.29 Lakh
+URL 1/1 - Model: SYROS, Variant: HTX PLUS OPT DIESEL AT
+Price: 15.94 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Petrol, Petrol Mileage ARAI: 17.68 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: BOLERO, Variant: B4
+Price: 7.99 Lakh
+URL 1/1 - Model: BOLERO, Variant: B6
+Price: 8.69 Lakh
+URL 1/1 - Model: BOLERO, Variant: B6 OPT
+Price: 9.09 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: BOLERO, Variant: B8
+Price: 9.69 Lakh
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: BOLERO NEO, Variant: N4
+Price: 8.49 Lakh
+URL 1/1 - Model: BOLERO NEO, Variant: N8
+Price: 9.29 Lakh
+URL 1/1 - Model: BOLERO NEO, Variant: N10 R
+Price: 9.79 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: BOLERO NEO, Variant: N11
+Price: 9.99 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: BOLERO NEO, Variant: N10 OPT
+Price: 10.49 Lakh
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: BOLERO NEO PLUS, Variant: P4
+Price: 10.77 Lakh
+URL 1/1 - Model: BOLERO NEO PLUS, Variant: P10
+Price: 11.80 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 9
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 9
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: BOLERO NEO PLUS, Variant: P4
+Price: 10.77 Lakh
+URL 1/1 - Model: BOLERO NEO PLUS, Variant: P10
+Price: 11.80 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 9
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 9
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: WINDSOR EV, Variant: ESSENCE PRO
+Price: 18.39 Lakh
+URL 1/1 - Model: WINDSOR EV, Variant: ESSENCE
+Price: 16.30 Lakh
+URL 1/1 - Model: WINDSOR EV, Variant: EXCLUSIVE PRO
+Price: 17.25 Lakh
+Fuel Type: Electric, Petrol Mileage ARAI: 
+URL 1/1 - Model: WINDSOR EV, Variant: EXCLUSIVE
+Price: 15.15 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Suspension, Steering & Brakes
+--------------------------------------------------------------------------------
+URL 1/1 - Model: WINDSOR EV, Variant: EXCITE
+Price: 14 Lakh
+Fuel Type: Electric, Petrol Mileage ARAI: 
+Fuel Type: Electric, Petrol Mileage ARAI: 
+URL 1/1 - Model: WINDSOR EV, Variant: INSPIRE EDITION
+Price: 12.65 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Suspension, Steering & Brakes
+--------------------------------------------------------------------------------
+Fuel Type: Electric, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Suspension, Steering & Brakes
+--------------------------------------------------------------------------------
+Fuel Type: Electric, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Suspension, Steering & Brakes
+--------------------------------------------------------------------------------
+Fuel Type: Electric, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Suspension, Steering & Brakes
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Suspension, Steering & Brakes
+--------------------------------------------------------------------------------
+URL 1/1 - Model: KIGER, Variant: AUTHENTIC
+Price: 5.76 Lakh
+URL 1/1 - Model: KIGER, Variant: EVOLUTION
+Price: 6.50 Lakh
+URL 1/1 - Model: KIGER, Variant: EVOLUTION AMT
+Price: 6.95 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 19.71 kmpl
+URL 1/1 - Model: KIGER, Variant: TECHNO
+Price: 7.50 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 19.71 kmpl
+URL 1/1 - Model: KIGER, Variant: TECHNO AMT
+Price: 7.96 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: KIGER, Variant: TECHNO DT AMT
+Fuel Type: Petrol, Petrol Mileage ARAI: 19.83 kmpl
+Price: 8.17 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 19.71 kmpl
+URL 1/1 - Model: KIGER, Variant: TECHNO DT
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Price: 7.71 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 19.83 kmpl
+URL 1/1 - Model: KIGER, Variant: EMOTION
+URL 1/1 - Model: KIGER, Variant: EMOTION DT
+Price: 8.37 Lakh
+Seating Capacity: 5
+Price: 8.58 Lakh
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: KIGER, Variant: EMOTION TURBO
+Price: 9.15 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 19.83 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 19.71 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 19.71 kmpl
+Seating Capacity: 5
+Fuel Type: Petrol, Petrol Mileage ARAI: 19.71 kmpl
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.38 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: KIGER, Variant: EMOTION TURBO DT
+Price: 9.15 Lakh
+URL 1/1 - Model: KIGER, Variant: TECHNO TURBO CVT
+Price: 9.15 Lakh
+URL 1/1 - Model: KIGER, Variant: TECHNO TURBO DT CVT
+Price: 9.15 Lakh
+URL 1/1 - Model: KIGER, Variant: EMOTION TURBO CVT
+Price: 10.34 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 17.63 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.38 kmpl
+URL 1/1 - Model: KIGER, Variant: EMOTION TURBO DT CVT
+Price: 10.34 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 17.63 kmpl
+Seating Capacity: 5
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 17.63 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 17.63 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: KYLAQ, Variant: CLASSIC
+Price: 7.55 Lakh
+URL 1/1 - Model: KYLAQ, Variant: SIGNATURE
+Price: 9 Lakh
+URL 1/1 - Model: KYLAQ, Variant: SIGNATURE AT
+Price: 10 Lakh
+URL 1/1 - Model: KYLAQ, Variant: SIGNATURE PLUS
+Fuel Type: Petrol, Petrol Mileage ARAI: 19.68 kmpl
+Price: 10.34 Lakh
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Fuel Type: , Petrol Mileage ARAI: 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+URL 1/1 - Model: KYLAQ, Variant: CLASSIC
+Price: 7.55 Lakh
+URL 1/1 - Model: KYLAQ, Variant: SIGNATURE
+Price: 9 Lakh
+URL 1/1 - Model: KYLAQ, Variant: SIGNATURE AT
+Price: 10 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 19.68 kmpl
+URL 1/1 - Model: KYLAQ, Variant: SIGNATURE PLUS
+Price: 10.34 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: KYLAQ, Variant: SIGNATURE PLUS AT
+URL 1/1 - Model: KYLAQ, Variant: PRESTIGE
+Fuel Type: Petrol, Petrol Mileage ARAI: 19.68 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 19.05 kmpl
+Price: 11.34 Lakh
+Price: 11.84 Lakh
+Seating Capacity: 5
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: KYLAQ, Variant: PRESTIGE AT
+Price: 12.80 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 19.68 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 19.68 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 19.05 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 19.05 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: ALTO K10, Variant: STD
+Price: 3.70 Lakh
+URL 1/1 - Model: ALTO K10, Variant: LXI
+Price: 4 Lakh
+URL 1/1 - Model: ALTO K10, Variant: LXI S-CNG
+URL 1/1 - Model: ALTO K10, Variant: VXI AT
+Fuel Type: Petrol, Petrol Mileage ARAI: 24.39 kmpl
+Price: 4.95 Lakh
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+URL 1/1 - Model: ALTO K10, Variant: STD
+Price: 3.70 Lakh
+URL 1/1 - Model: ALTO K10, Variant: LXI
+Price: 4 Lakh
+URL 1/1 - Model: ALTO K10, Variant: VXI
+Price: 4.50 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 24.39 kmpl
+URL 1/1 - Model: ALTO K10, Variant: VXI AT
+Fuel Type: Petrol, Petrol Mileage ARAI: 24.39 kmpl
+Seating Capacity: 5
+Price: 4.95 Lakh
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: ALTO K10, Variant: VXI PLUS
+Price: 5 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 24.39 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: ALTO K10, Variant: LXI S-CNG
+Fuel Type: Petrol, Petrol Mileage ARAI: 24.9 kmpl
+Price: 4.82 Lakh
+URL 1/1 - Model: ALTO K10, Variant: VXI S-CNG
+URL 1/1 - Model: ALTO K10, Variant: VXI PLUS AT
+Price: 5.32 Lakh
+Price: 5.45 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 24.39 kmpl
+Seating Capacity: 5
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Fuel Type: Petrol, Petrol Mileage ARAI: 24.9 kmpl
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: BALENO, Variant: SIGMA
+Price: 5.99 Lakh
+URL 1/1 - Model: BALENO, Variant: DELTA
+Price: 6.80 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 22.35 kmpl
+URL 1/1 - Model: BALENO, Variant: DELTA AMT
+Price: 7.30 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: BALENO, Variant: ZETA
+Price: 7.70 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 22.35 kmpl
+Seating Capacity: 5
+URL 1/1 - Model: BALENO, Variant: ZETA AMT
+Price: 8.20 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 22.94 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 22.35 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+URL 1/1 - Model: BALENO, Variant: DELTA CNG
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 22.94 kmpl
+Price: 7.70 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: BALENO, Variant: SIGMA
+Price: 5.99 Lakh
+URL 1/1 - Model: BALENO, Variant: DELTA
+Price: 6.80 Lakh
+URL 1/1 - Model: BALENO, Variant: DELTA AMT
+Price: 7.30 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 22.35 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 22.35 kmpl
+URL 1/1 - Model: BALENO, Variant: DELTA CNG
+Price: 7.70 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+URL 1/1 - Model: BALENO, Variant: ZETA
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Price: 7.70 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 22.94 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: CNG, Petrol Mileage ARAI: 
+URL 1/1 - Model: BALENO, Variant: ZETA AMT
+Price: 8.20 Lakh
+URL 1/1 - Model: BALENO, Variant: ALPHA AMT
+Price: 9.10 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: BALENO, Variant: ALPHA
+Fuel Type: Petrol, Petrol Mileage ARAI: 22.35 kmpl
+Price: 8.60 Lakh
+URL 1/1 - Model: BALENO, Variant: ZETA CNG
+Price: 8.60 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 22.94 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 22.94 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 22.35 kmpl
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: DZIRE, Variant: LXI
+Price: 6.26 Lakh
+URL 1/1 - Model: DZIRE, Variant: VXI
+Price: 7.17 Lakh
+URL 1/1 - Model: DZIRE, Variant: VXI CNG
+Price: 8.03 Lakh
+URL 1/1 - Model: DZIRE, Variant: ZXI
+Fuel Type: Petrol, Petrol Mileage ARAI: 24.79 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 24.79 kmpl
+Price: 8.18 Lakh
+URL 1/1 - Model: DZIRE, Variant: VXI AMT
+Price: 7.62 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: CNG, Petrol Mileage ARAI: 
+URL 1/1 - Model: DZIRE, Variant: ZXI CNG
+Price: 9.04 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 25.71 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 24.79 kmpl
+URL 1/1 - Model: DZIRE, Variant: ZXI PLUS
+URL 1/1 - Model: DZIRE, Variant: ZXI AMT
+Price: 8.86 Lakh
+Price: 8.63 Lakh
+Seating Capacity: 5
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: DZIRE, Variant: ZXI PLUS AMT
+Price: 9.31 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 25.71 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 25.71 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 24.79 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: CELERIO, Variant: ZXI PLUS AMT
+Price: 6.73 Lakh
+URL 1/1 - Model: CELERIO, Variant: ZXI PLUS
+Price: 6.28 Lakh
+URL 1/1 - Model: CELERIO, Variant: ZXI AMT
+Price: 6.16 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 26 kmpl
+URL 1/1 - Model: CELERIO, Variant: VXI CNG
+Price: 5.98 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 24.97 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 26 kmpl
+URL 1/1 - Model: CELERIO, Variant: ZXI
+Price: 5.71 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: CELERIO, Variant: VXI AMT
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Price: 5.61 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: CELERIO, Variant: VXI
+Fuel Type: Petrol, Petrol Mileage ARAI: 25.24 kmpl
+URL 1/1 - Model: CELERIO, Variant: LXI
+Price: 4.70 Lakh
+Price: 5.16 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 26.68 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 25.24 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 25.24 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: CIAZ, Variant: ALPHA AT
+Price: 11.89 Lakh
+--------------------------------------------------------------------------------
+URL 1/1 - Model: CIAZ, Variant: ZETA AT
+Price: 11.12 Lakh
+URL 1/1 - Model: CIAZ, Variant: DELTA AT
+Price: 10.73 Lakh
+--------------------------------------------------------------------------------
+URL 1/1 - Model: CIAZ, Variant: ALPHA
+Price: 10.82 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.04 kmpl
+URL 1/1 - Model: CIAZ, Variant: ZETA
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Price: 9.65 Lakh
+--------------------------------------------------------------------------------
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: CIAZ, Variant: SIGMA
+Price: 9.09 Lakh
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.65 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: CIAZ, Variant: ALPHA AT
+Price: 11.89 Lakh
+URL 1/1 - Model: CIAZ, Variant: ALPHA
+Price: 10.82 Lakh
+URL 1/1 - Model: CIAZ, Variant: ZETA AT
+Price: 11.12 Lakh
+URL 1/1 - Model: CIAZ, Variant: SIGMA
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.04 kmpl
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.65 kmpl
+URL 1/1 - Model: CIAZ, Variant: DELTA AT
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.04 kmpl
+Price: 10.73 Lakh
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Price: 10.05 Lakh
+--------------------------------------------------------------------------------
+URL 1/1 - Model: CIAZ, Variant: DELTA
+Price: 9.65 Lakh
+--------------------------------------------------------------------------------
+URL 1/1 - Model: CIAZ, Variant: ALPHA AT
+Price: 11.89 Lakh
+--------------------------------------------------------------------------------
+URL 1/1 - Model: CIAZ, Variant: DELTA AT
+--------------------------------------------------------------------------------
+URL 1/1 - Model: CIAZ, Variant: ZETA AT
+Price: 11.12 Lakh
+URL 1/1 - Model: CIAZ, Variant: DELTA
+Price: 9.65 Lakh
+--------------------------------------------------------------------------------
+URL 1/1 - Model: CIAZ, Variant: ALPHA
+Price: 10.82 Lakh
+URL 1/1 - Model: CIAZ, Variant: SIGMA
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.04 kmpl
+Price: 9.09 Lakh
+--------------------------------------------------------------------------------
+URL 1/1 - Model: CIAZ, Variant: ZETA
+Price: 10.05 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.65 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.65 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: CIAZ, Variant: ALPHA AT
+--------------------------------------------------------------------------------
+URL 1/1 - Model: CIAZ, Variant: ZETA AT
+Price: 11.12 Lakh
+URL 1/1 - Model: CIAZ, Variant: ALPHA
+Price: 10.82 Lakh
+URL 1/1 - Model: CIAZ, Variant: DELTA AT
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.04 kmpl
+--------------------------------------------------------------------------------
+URL 1/1 - Model: CIAZ, Variant: ZETA
+Price: 10.05 Lakh
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.65 kmpl
+URL 1/1 - Model: CIAZ, Variant: SIGMA
+URL 1/1 - Model: CIAZ, Variant: DELTA
+Price: 9.65 Lakh
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.65 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------

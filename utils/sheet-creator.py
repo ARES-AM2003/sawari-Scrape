@@ -3,7 +3,7 @@ import glob
 import os
 import random
 
-csv_folder = "/home/ares-am/Projects/BNT/scrapy/Output/Hyundai/Creta N Line"
+csv_folder = "/home/ares-am/Projects/BNT/scrapy/Output/Maruti/Ciaz"
 
 sheet_name = os.path.basename(csv_folder.rstrip("/"))
 # Create 'combined' folder in the same directory as CSV files

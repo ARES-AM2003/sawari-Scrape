@@ -15,8 +15,10 @@ import random
 import re
 from typing import Dict, List
 
+brand_name = 'Maruti'
+model_name = 'Ciaz'
 # Configuration - Update these paths as needed
-CSV_BASE_PATH = "/home/ares-am/Projects/BNT/scrapy/Output/Mahindra/xuv-3xo"
+CSV_BASE_PATH = "/home/ares-am/Projects/BNT/scrapy/Output/Maruti/Ciaz"
 JSON_MAPPING_FILE = "/home/ares-am/Projects/BNT/scrapy/utils/variant_mapping.json"  # Default JSON mapping file
 OUTPUT_SUFFIX = ""  # Will create Variants_updated.csv
 

@@ -69,12 +69,15 @@ class SeleniumMiddleware:
             service = ChromeService(driver_path)
             self.driver = Chrome(service=service, options=options)
         else:
-
-            profile = FirefoxProfile()
-            profile.add_extension("/home/ares-am/Projects/BNT/scrapy/utils/uBlock0_1.68.1b0.firefox.xpi")
-
             options = FirefoxOptions()
             options.add_argument("--headless")
+
+            # Create profile and add extension
+            profile = FirefoxProfile()
+            profile.add_extension("/home/ares-am/Projects/BNT/scrapy/utils/uBlock0_1.68.1b0.firefox.xpi")
+            
+            # Pass profile to options
+            options.profile = profile
 
             # Try system driver first, then download if needed
             driver_path = self._get_driver_path("firefox")

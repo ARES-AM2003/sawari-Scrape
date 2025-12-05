@@ -10,12 +10,12 @@ from ..items import ModelInfoItem, RatingInfoItem
 class ModelWithRatingsSpider(scrapy.Spider):
     name = "model-rating"
     allowed_domains = ["autocarindia.com"]
-    start_urls = ["https://www.autocarindia.com/cars/mahindra/xuv-3xo"]
+    start_urls = ["https://www.autocarindia.com/cars/maruti-suzuki/celerio"]
 
     # Extract brand and model from start_urls
 
-    brand_name = 'Mahindra'
-    model_name = 'xuv-3xo'
+    brand_name = 'Maruti'
+    model_name = 'Ciaz'
     custom_settings = {
         'ITEM_PIPELINES': {
             'sawari-expert.pipelines.ModelInfoJsonPipeline': 300,

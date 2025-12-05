@@ -357,9 +357,9 @@ def main():
 
     # Configuration
     INPUT_FILE = os.path.join(script_dir, 'feature_spec_urls.txt')
-    SPIDER_NAME = 'feature-specification'
-    BATCH_SIZE = 4  # Number of parallel spiders
-    TIMEOUT = 150  # Timeout per spider in seconds
+    SPIDER_NAME = 'feature-specification-fragment'
+    BATCH_SIZE = 2  # Number of parallel spiders
+    TIMEOUT = 500  # Timeout per spider in seconds
     MAX_RETRIES = 2  # Maximum number of retry attempts for failed URLs
 
     # Check if scrapy.cfg exists in project root
