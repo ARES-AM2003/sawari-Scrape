@@ -4976,3 +4976,173 @@ Fuel Type: Petrol, Petrol Mileage ARAI: 20.65 kmpl
 Seating Capacity: 5
 Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
 --------------------------------------------------------------------------------
+URL 1/1 - Model: THAR, Variant: AXT RWD DIESEL
+Price: 9.99 Lakh
+URL 1/1 - Model: THAR, Variant: AXT RWD DIESEL
+Price: 9.99 Lakh
+URL 1/1 - Model: THAR, Variant: LXT RWD DIESEL
+Price: 12.19 Lakh
+URL 1/1 - Model: THAR, Variant: LXT RWD AT
+Price: 13.99 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: THAR, Variant: LXT 4WD
+Price: 14.69 Lakh
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: THAR, Variant: LXT 4WD AT
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Price: 16.25 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 
+URL 1/1 - Model: THAR, Variant: LXT 4WD DIESEL AT
+Price: 16.91 Lakh
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 
+URL 1/1 - Model: THAR, Variant: LXT 4WD DIESEL
+Price: 16.99 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: THAR, Variant: AXT RWD DIESEL
+Price: 9.99 Lakh
+URL 1/1 - Model: THAR, Variant: LXT RWD DIESEL
+Price: 12.19 Lakh
+URL 1/1 - Model: THAR, Variant: LXT 4WD
+Price: 14.69 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: THAR, Variant: LXT 4WD AT
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Price: 16.25 Lakh
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 
+URL 1/1 - Model: THAR, Variant: LXT 4WD DIESEL AT
+Price: 16.91 Lakh
+URL 1/1 - Model: THAR, Variant: LXT 4WD DIESEL
+Price: 16.99 Lakh
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: THAR, Variant: LXT RWD AT
+Price: 13.99 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Petrol, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: THAR, Variant: AXT RWD DIESEL
+Price: 9.99 Lakh
+URL 1/1 - Model: THAR, Variant: LXT RWD DIESEL
+Price: 12.19 Lakh
+URL 1/1 - Model: THAR, Variant: LXT RWD AT
+Price: 13.99 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 4
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: THAR, Variant: LXT 4WD
+URL 1/1 - Model: THAR, Variant: LXT 4WD AT
+Price: 16.25 Lakh
+Price: 14.69 Lakh
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 
+URL 1/1 - Model: THAR, Variant: LXT 4WD DIESEL
+Price: 16.99 Lakh
+URL 1/1 - Model: THAR, Variant: LXT 4WD DIESEL AT
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Price: 16.91 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 
+Fuel Type: Petrol, Petrol Mileage ARAI: 
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: THAR, Variant: AXT RWD DIESEL
+Price: 9.99 Lakh
+URL 1/1 - Model: THAR, Variant: LXT RWD DIESEL
+Price: 12.19 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: THAR, Variant: LXT RWD AT
+Price: 13.99 Lakh
+Seating Capacity: 4
+URL 1/1 - Model: THAR, Variant: LXT 4WD
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Price: 14.69 Lakh
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 
+URL 1/1 - Model: THAR, Variant: LXT 4WD DIESEL AT
+URL 1/1 - Model: THAR, Variant: LXT 4WD AT
+Price: 16.91 Lakh
+Price: 16.25 Lakh
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 
+URL 1/1 - Model: THAR, Variant: LXT 4WD DIESEL
+Price: 16.99 Lakh
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------

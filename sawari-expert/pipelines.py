@@ -13,8 +13,8 @@ import csv
 # Global variables for brand and model names
 
 
-brand_name = 'Maruti'
-model_name = 'Ciaz'
+brand_name = 'Mahendra'
+model_name = 'Thar'
 # Output directory - all files will be saved here
 OUTPUT_DIR = f'Output/{brand_name}/{model_name}'
 

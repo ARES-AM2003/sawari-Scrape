@@ -15,7 +15,7 @@ import time
 from openai import OpenAI
 
 # ---------------- CONFIG ----------------
-INPUT_CSV_PATH = "/home/ares-am/Projects/BNT/scrapy/Output/Maruti/Ciaz/Variants.csv"
+INPUT_CSV_PATH = "/home/ares-am/Projects/BNT/scrapy/Output/Mahendra/Thar/Variants.csv"
 OUTPUT_CSV_PATH = INPUT_CSV_PATH
 OPENROUTER_API_KEY = "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"
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
