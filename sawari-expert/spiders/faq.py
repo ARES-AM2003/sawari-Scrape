@@ -10,12 +10,12 @@ import time
 class FaqSpider(scrapy.Spider):
     name = "faq"
     allowed_domains = ["cardekho.com"]
-    start_urls = ["https://www.cardekho.com/mahindra/thar"]
+    start_urls = ["https://www.cardekho.com/mahindra/xuv700"]
 
     # Extract brand and model from start_urls
 
-    brand_name = 'Mahendra'
-    model_name = 'Thar'
+    brand_name = 'Mahindra'
+    model_name = 'xuv700'
     custom_settings = {
         'ITEM_PIPELINES': {
             'sawari-expert.pipelines.FaqInfoJsonPipeline': 300,

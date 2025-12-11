@@ -190,6 +190,7 @@ def run_spiders_in_batches(spider_name, urls, batch_size, project_root, timeout=
         project_root: Root directory of the scrapy project
         timeout: Maximum time in seconds for each spider (default: 150)
         max_retries: Maximum number of retry attempts for failed URLs (default: 2)
+                     Note: Timeout errors are NOT retried
 
     Returns:
         Tuple of (success_count, failed_count)
@@ -246,15 +247,21 @@ def run_spiders_in_batches(spider_name, urls, batch_size, project_root, timeout=
 
         print(f"[BATCH] Completed URLs {batch_start + 1} to {batch_end}")
 
+        # Add delay between batches to avoid rate limiting
+        if batch_end < total_urls:
+            wait_time = 10  # Wait 10 seconds between batches
+            print(f"[INFO] Waiting {wait_time}s before next batch to avoid rate limiting...")
+            time.sleep(wait_time)
+
     # Collect all results
     while not result_queue.empty():
         result = result_queue.get()
         all_results.append(result)
 
-    # Process retries for failed URLs
+    # Process retries for failed URLs (excluding timeouts)
     for retry_attempt in range(1, max_retries + 1):
-        # Find all failed/timeout/error URLs from previous attempt
-        failed_results = [r for r in all_results if r[1] in ['failed', 'timeout', 'error']]
+        # Find all failed/error URLs from previous attempt (excluding timeouts)
+        failed_results = [r for r in all_results if r[1] in ['failed', 'error']]
 
         if not failed_results:
             break  # No failures to retry
@@ -263,8 +270,9 @@ def run_spiders_in_batches(spider_name, urls, batch_size, project_root, timeout=
         print(f"RETRY ATTEMPT {retry_attempt} - Found {len(failed_results)} failed URL(s)")
         print(f"{'=' * 80}\n")
 
-        # Remove failed results from all_results (we'll add new attempts)
-        all_results = [r for r in all_results if r[1] == 'success']
+        # Remove failed/error results from all_results (we'll add new attempts)
+        # Keep timeout and success results as they won't be retried
+        all_results = [r for r in all_results if r[1] in ['success', 'timeout']]
 
         # Process failed URLs in batches
         failed_urls = [(r[0], r[3]) for r in failed_results]  # (url_index, url)
@@ -294,6 +302,12 @@ def run_spiders_in_batches(spider_name, urls, batch_size, project_root, timeout=
 
             print(f"[RETRY BATCH] Completed {batch_start + 1} to {batch_end}")
 
+            # Add delay between retry batches
+            if batch_end < len(failed_urls):
+                wait_time = 10  # Wait 10 seconds between retry batches
+                print(f"[INFO] Waiting {wait_time}s before next retry batch...")
+                time.sleep(wait_time)
+
         # Collect retry results
         while not result_queue.empty():
             result = result_queue.get()
@@ -313,6 +327,7 @@ def run_spiders_in_batches(spider_name, urls, batch_size, project_root, timeout=
     failed_count = 0
     timeout_count = 0
     error_count = 0
+    timeout_urls = []
 
     for url_index, status, elapsed, url in all_results:
         status_icon = "✓" if status == "success" else "✗"
@@ -326,6 +341,7 @@ def run_spiders_in_batches(spider_name, urls, batch_size, project_root, timeout=
         elif status == "timeout":
             timeout_count += 1
             failed_count += 1
+            timeout_urls.append(url)
         elif status == "error":
             error_count += 1
             failed_count += 1
@@ -344,6 +360,15 @@ def run_spiders_in_batches(spider_name, urls, batch_size, project_root, timeout=
         print(f"  - Other failures: {failed_count - timeout_count - error_count}")
     print(f"End time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 80)
+    
+    # Print timed-out URLs
+    if timeout_urls:
+        print("\n" + "=" * 80)
+        print("TIMED-OUT URLs (NOT RETRIED)")
+        print("=" * 80)
+        for i, url in enumerate(timeout_urls, 1):
+            print(f"{i}. {url}")
+        print("=" * 80)
 
     return success_count, failed_count
 

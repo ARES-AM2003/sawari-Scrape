@@ -226,7 +226,7 @@ def main():
     # Configuration
     INPUT_FILE = os.path.join(script_dir, 'variants_urls.txt')
     SPIDER_NAME = 'variants'
-    BATCH_SIZE = 10  # Number of parallel spiders
+    BATCH_SIZE = 8  # Number of parallel spiders
 
     # Check if scrapy.cfg exists in project root
     scrapy_cfg = os.path.join(project_root, 'scrapy.cfg')

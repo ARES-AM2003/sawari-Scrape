@@ -5146,3 +5146,1004 @@ Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
 Seating Capacity: 4
 Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
 --------------------------------------------------------------------------------
+URL 1/1 - Model: THAR, Variant: AXT RWD DIESEL
+Price: 9.99 Lakh
+URL 1/1 - Model: THAR, Variant: LXT RWD DIESEL
+Price: 12.19 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: THAR, Variant: LXT RWD AT
+Price: 13.99 Lakh
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: THAR, Variant: LXT 4WD
+Price: 14.69 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: THAR, Variant: LXT 4WD AT
+URL 1/1 - Model: THAR, Variant: LXT 4WD DIESEL
+Price: 16.99 Lakh
+Price: 16.25 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: THAR, Variant: LXT 4WD DIESEL AT
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 
+Price: 16.91 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: THAR ROXX, Variant: MX1 RWD
+Price: 12.25 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: MX1 RWD DIESEL
+Price: 13.48 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: MX3 RWD AT
+Price: 14.42 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 12.4 kmpl
+URL 1/1 - Model: THAR ROXX, Variant: MX3 RWD DIESEL
+Price: 15.36 Lakh
+Seating Capacity: 5
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Fuel Type: Petrol, Petrol Mileage ARAI: 12.4 kmpl
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: THAR ROXX, Variant: MX5 RWD DIESEL
+Price: 16.31 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: THAR ROXX, Variant: MX5 RWD
+URL 1/1 - Model: THAR ROXX, Variant: AX3L RWD DIESEL
+Price: 16.31 Lakh
+Price: 15.75 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: MX3 RWD DIESEL AT
+Price: 16.78 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: MX5 RWD AT
+URL 1/1 - Model: THAR ROXX, Variant: MX5 RWD DIESEL AT
+Price: 17.16 Lakh
+Price: 17.72 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Petrol, Petrol Mileage ARAI: 12.4 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 12.4 kmpl
+Seating Capacity: 5
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: THAR ROXX, Variant: MX5 4WD DIESEL
+Price: 18.29 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: AX5L RWD DIESEL AT
+Price: 18.19 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: THAR ROXX, Variant: AX7L RWD AT
+Price: 19.51 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: THAR ROXX, Variant: AX5L 4WD DIESEL AT
+Price: 20.17 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: AX7L 4WD DIESEL AT
+Price: 22.06 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: THAR ROXX, Variant: AX7L RWD DIESEL AT
+Price: 20 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: AX7L 4WD DIESEL
+Price: 20.64 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 12.4 kmpl
+Seating Capacity: 5
+URL 1/1 - Model: THAR ROXX, Variant: AX7L RWD DIESEL
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Price: 18.66 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: THAR ROXX, Variant: MX1 RWD
+Price: 12.25 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: MX1 RWD DIESEL
+Price: 13.48 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: MX3 RWD AT
+Price: 14.42 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 12.4 kmpl
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: THAR ROXX, Variant: MX3 RWD DIESEL
+Price: 15.36 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 12.4 kmpl
+URL 1/1 - Model: THAR ROXX, Variant: AX3L RWD DIESEL
+Price: 16.31 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: THAR ROXX, Variant: MX3 RWD DIESEL AT
+Price: 16.78 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: THAR ROXX, Variant: MX5 RWD DIESEL AT
+Price: 17.72 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: MX5 RWD
+Price: 15.75 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: THAR ROXX, Variant: MX5 RWD DIESEL
+Price: 16.31 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: MX5 RWD AT
+Price: 17.16 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Petrol, Petrol Mileage ARAI: 12.4 kmpl
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 12.4 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: THAR ROXX, Variant: AX5L RWD DIESEL AT
+Price: 18.19 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: AX7L RWD DIESEL
+Price: 18.66 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: MX5 4WD DIESEL
+Price: 18.29 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: THAR ROXX, Variant: AX7L RWD DIESEL AT
+Price: 20 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 5
+URL 1/1 - Model: THAR ROXX, Variant: AX7L RWD AT
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Price: 19.51 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+URL 1/1 - Model: THAR ROXX, Variant: AX5L 4WD DIESEL AT
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Price: 20.17 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: AX7L 4WD DIESEL AT
+Fuel Type: Petrol, Petrol Mileage ARAI: 12.4 kmpl
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Price: 22.06 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: THAR ROXX, Variant: AX7L 4WD DIESEL
+Price: 20.64 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: THAR ROXX, Variant: MX1 RWD
+Price: 12.25 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: MX1 RWD DIESEL
+Price: 13.48 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: MX3 RWD AT
+Price: 14.42 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 12.4 kmpl
+URL 1/1 - Model: THAR ROXX, Variant: MX5 RWD
+Price: 15.75 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Petrol, Petrol Mileage ARAI: 12.4 kmpl
+URL 1/1 - Model: THAR ROXX, Variant: MX3 RWD DIESEL
+Seating Capacity: 5
+Price: 15.36 Lakh
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 12.4 kmpl
+URL 1/1 - Model: THAR ROXX, Variant: MX5 RWD DIESEL
+Price: 16.31 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: THAR ROXX, Variant: AX5L RWD DIESEL AT
+Price: 18.19 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: AX7L RWD DIESEL
+Price: 18.66 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: AX7L RWD AT
+Price: 19.51 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: THAR ROXX, Variant: AX7L RWD DIESEL AT
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Price: 20 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 12.4 kmpl
+URL 1/1 - Model: THAR ROXX, Variant: AX7L 4WD DIESEL
+URL 1/1 - Model: THAR ROXX, Variant: MX5 4WD DIESEL
+Price: 20.64 Lakh
+Price: 18.29 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: AX7L 4WD DIESEL AT
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Price: 22.06 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: THAR ROXX, Variant: AX5L 4WD DIESEL AT
+Price: 20.17 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: THAR ROXX, Variant: MX1 RWD
+Price: 12.25 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: MX1 RWD DIESEL
+Price: 13.48 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: MX3 RWD AT
+Price: 14.42 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: MX3 RWD DIESEL
+Price: 15.36 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 12.4 kmpl
+Seating Capacity: 5
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 12.4 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: THAR ROXX, Variant: AX5L RWD DIESEL AT
+Price: 18.19 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: AX7L RWD DIESEL
+URL 1/1 - Model: THAR ROXX, Variant: AX7L RWD DIESEL AT
+Price: 18.66 Lakh
+Price: 20 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: THAR ROXX, Variant: AX7L RWD AT
+Price: 19.51 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: MX5 4WD DIESEL
+Price: 18.29 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: AX7L 4WD DIESEL AT
+Price: 22.06 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 12.4 kmpl
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: THAR ROXX, Variant: MX1 RWD
+Price: 12.25 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: MX1 RWD DIESEL
+Price: 13.48 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: MX3 RWD AT
+Price: 14.42 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Petrol, Petrol Mileage ARAI: 12.4 kmpl
+URL 1/1 - Model: THAR ROXX, Variant: MX5 RWD
+Price: 15.75 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: MX3 RWD DIESEL
+Price: 15.36 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Fuel Type: Petrol, Petrol Mileage ARAI: 12.4 kmpl
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: THAR ROXX, Variant: AX3L RWD DIESEL
+URL 1/1 - Model: THAR ROXX, Variant: MX5 RWD DIESEL
+Price: 16.31 Lakh
+Price: 16.31 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Petrol, Petrol Mileage ARAI: 12.4 kmpl
+URL 1/1 - Model: THAR ROXX, Variant: MX5 RWD AT
+Seating Capacity: 5
+URL 1/1 - Model: THAR ROXX, Variant: MX5 RWD DIESEL AT
+Price: 17.16 Lakh
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Price: 17.72 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: THAR ROXX, Variant: MX3 RWD DIESEL AT
+Price: 16.78 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 12.4 kmpl
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: THAR ROXX, Variant: AX5L RWD DIESEL AT
+Price: 18.19 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: MX5 4WD DIESEL
+Price: 18.29 Lakh
+URL 1/1 - Model: THAR ROXX, Variant: AX7L RWD AT
+Price: 19.51 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: THAR ROXX, Variant: AX7L RWD DIESEL AT
+Price: 20 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: THAR ROXX, Variant: AX5L 4WD DIESEL AT
+Fuel Type: Petrol, Petrol Mileage ARAI: 12.4 kmpl
+Price: 20.17 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: THAR ROXX, Variant: AX7L RWD DIESEL
+Seating Capacity: 5
+Price: 18.66 Lakh
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: THAR ROXX, Variant: AX7L 4WD DIESEL
+Price: 20.65 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: THAR ROXX, Variant: AX7L 4WD DIESEL AT
+Seating Capacity: 5
+Price: 22.06 Lakh
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: THAR, Variant: AXT RWD DIESEL
+Price: 9.99 Lakh
+URL 1/1 - Model: THAR, Variant: LXT RWD DIESEL
+Price: 12.19 Lakh
+URL 1/1 - Model: THAR, Variant: LXT RWD AT
+Price: 13.99 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: THAR, Variant: LXT 4WD
+Price: 14.69 Lakh
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: THAR, Variant: LXT 4WD DIESEL AT
+Price: 16.99 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 
+URL 1/1 - Model: THAR, Variant: LXT 4WD DIESEL
+Price: 15.49 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 
+URL 1/1 - Model: THAR, Variant: LXT 4WD AT
+Price: 16.25 Lakh
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Petrol, Petrol Mileage ARAI: 
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 4
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: MERIDIAN, Variant: LONGITUDE 4X2
+Price: 23.33 Lakh
+URL 1/1 - Model: MERIDIAN, Variant: LONGITUDE PLUS 4X2
+Price: 25.95 Lakh
+URL 1/1 - Model: MERIDIAN, Variant: LONGITUDE 4X2 AT
+Price: 26.88 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+--------------------------------------------------------------------------------
+URL 1/1 - Model: MERIDIAN, Variant: LONGITUDE 4X2
+Price: 23.33 Lakh
+URL 1/1 - Model: MERIDIAN, Variant: LONGITUDE PLUS 4X2
+Price: 25.95 Lakh
+URL 1/1 - Model: MERIDIAN, Variant: LONGITUDE 4X2 AT
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Price: 26.88 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: MERIDIAN, Variant: LIMITED OPT 4X2
+Price: 28.74 Lakh
+Seating Capacity: 7
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: MERIDIAN, Variant: TRAIL EDITION
+Price: 29.12 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: MERIDIAN, Variant: LONGITUDE PLUS 4X2 AT
+Price: 28.74 Lakh
+URL 1/1 - Model: MERIDIAN, Variant: LIMITED OPT 4X2 AT
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: MERIDIAN, Variant: OVERLAND 4X2 AT
+Price: 32.48 Lakh
+Price: 34.34 Lakh
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: MERIDIAN, Variant: TRAIL EDITION AT
+Price: 32.86 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: MERIDIAN, Variant: LIMITED OPT 4X4 AT
+Price: 34.34 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 7
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: MERIDIAN, Variant: OVERLAND 4X4 AT
+Price: 36.21 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: XUV400 EV, Variant: EC PRO 34.5 KWH
+Price: 15.49 Lakh
+URL 1/1 - Model: XUV400 EV, Variant: EL PRO 34.5 KWH
+Price: 16.74 Lakh
+URL 1/1 - Model: XUV400 EV, Variant: EL PRO DT 34.5 KWH
+Price: 16.94 Lakh
+Fuel Type: Electric, Petrol Mileage ARAI: 
+URL 1/1 - Model: XUV400 EV, Variant: EL PRO DT 39.4 KWH
+Fuel Type: Electric, Petrol Mileage ARAI: 
+Price: 17.69 Lakh
+URL 1/1 - Model: XUV400 EV, Variant: EL PRO 39.4 KWH
+Price: 17.49 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Suspension, Steering & Brakes
+--------------------------------------------------------------------------------
+Fuel Type: Electric, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Suspension, Steering & Brakes
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Suspension, Steering & Brakes
+--------------------------------------------------------------------------------
+Fuel Type: Electric, Petrol Mileage ARAI: 
+Fuel Type: Electric, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Suspension, Steering & Brakes
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Suspension, Steering & Brakes
+--------------------------------------------------------------------------------
+URL 1/1 - Model: XUV400 EV, Variant: EC PRO 34.5 KWH
+Price: 15.49 Lakh
+URL 1/1 - Model: XUV400 EV, Variant: EL PRO 34.5 KWH
+Price: 16.74 Lakh
+URL 1/1 - Model: XUV400 EV, Variant: EL PRO DT 34.5 KWH
+Price: 16.94 Lakh
+Fuel Type: Electric, Petrol Mileage ARAI: 
+URL 1/1 - Model: XUV400 EV, Variant: EL PRO 39.4 KWH
+Price: 17.49 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Suspension, Steering & Brakes
+--------------------------------------------------------------------------------
+Fuel Type: Electric, Petrol Mileage ARAI: 
+Fuel Type: Electric, Petrol Mileage ARAI: 
+URL 1/1 - Model: XUV400 EV, Variant: EL PRO DT 39.4 KWH
+Price: 17.69 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Suspension, Steering & Brakes
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Suspension, Steering & Brakes
+--------------------------------------------------------------------------------
+Fuel Type: Electric, Petrol Mileage ARAI: 
+Fuel Type: Electric, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Suspension, Steering & Brakes
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Suspension, Steering & Brakes
+--------------------------------------------------------------------------------
+URL 1/1 - Model: XUV400 EV, Variant: EC PRO 34.5 KWH
+Price: 15.49 Lakh
+URL 1/1 - Model: XUV400 EV, Variant: EL PRO 34.5 KWH
+Price: 16.74 Lakh
+URL 1/1 - Model: XUV400 EV, Variant: EL PRO DT 34.5 KWH
+Price: 16.94 Lakh
+Fuel Type: Electric, Petrol Mileage ARAI: 
+URL 1/1 - Model: XUV400 EV, Variant: EL PRO 39.4 KWH
+Price: 17.49 Lakh
+Fuel Type: Electric, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Suspension, Steering & Brakes
+--------------------------------------------------------------------------------
+URL 1/1 - Model: XUV400 EV, Variant: EL PRO DT 39.4 KWH
+Price: 17.69 Lakh
+Fuel Type: Electric, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Suspension, Steering & Brakes
+--------------------------------------------------------------------------------
+Fuel Type: Electric, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Suspension, Steering & Brakes
+--------------------------------------------------------------------------------
+Fuel Type: Electric, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Suspension, Steering & Brakes
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Suspension, Steering & Brakes
+--------------------------------------------------------------------------------
+URL 1/1 - Model: XUV700, Variant: MX 7STR
+Price: 13.66 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 15 kmpl
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: XUV700, Variant: AX5 S 7 STR DIESEL AT
+Price: 18.14 Lakh
+--------------------------------------------------------------------------------
+Price: 18.37 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 15 kmpl
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: XUV700, Variant: MX 7STR
+Price: 13.66 Lakh
+URL 1/1 - Model: XUV700, Variant: MX E 7STR
+Price: 14.13 Lakh
+URL 1/1 - Model: XUV700, Variant: MX 7STR DIESEL
+Price: 14.13 Lakh
+URL 1/1 - Model: XUV700, Variant: MX E 7STR DIESEL
+Fuel Type: Petrol, Petrol Mileage ARAI: 15 kmpl
+Price: 14.60 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 15 kmpl
+URL 1/1 - Model: XUV700, Variant: AX5 S 7 STR
+Price: 15.92 Lakh
+Seating Capacity: 7
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: XUV700, Variant: AX5 S 7 STR DIESEL
+Price: 16.72 Lakh
+URL 1/1 - Model: XUV700, Variant: AX5 S E 7STR
+Price: 16.39 Lakh
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Petrol, Petrol Mileage ARAI: 15 kmpl
+URL 1/1 - Model: XUV700, Variant: AX5 7 STR
+Price: 17.29 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 15 kmpl
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 15 kmpl
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: XUV700, Variant: AX5 S 7 STR AT
+Price: 17.57 Lakh
+URL 1/1 - Model: XUV700, Variant: AX5 E 7 STR
+Price: 17.76 Lakh
+URL 1/1 - Model: XUV700, Variant: AX5 7 STR DIESEL
+Price: 17.95 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 13 kmpl
+URL 1/1 - Model: XUV700, Variant: AX7 7STR
+Price: 18.37 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: XUV700, Variant: AX7 EBONY EDITION 7STR
+Price: 18.51 Lakh
+URL 1/1 - Model: XUV700, Variant: AX5 S 7 STR DIESEL AT
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Price: 18.14 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 15 kmpl
+URL 1/1 - Model: XUV700, Variant: AX7 6 STR
+Price: 18.56 Lakh
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: XUV700, Variant: AX7 EBONY EDITION 6STR
+Price: 18.70 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 15 kmpl
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 15 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 15 kmpl
+Seating Capacity: 6
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 6
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: XUV700, Variant: AX5 7 STR AT
+Price: 18.80 Lakh
+URL 1/1 - Model: XUV700, Variant: AX7 7STR DIESEL
+Price: 18.84 Lakh
+URL 1/1 - Model: XUV700, Variant: AX7 EBONY EDITION 7STR DIESEL
+Price: 18.99 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 13 kmpl
+URL 1/1 - Model: XUV700, Variant: AX7 EBONY EDITION 6STR DIESEL
+Price: 19.17 Lakh
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: XUV700, Variant: AX7 7STR AT
+Price: 19.79 Lakh
+URL 1/1 - Model: XUV700, Variant: AX5 7 STR DIESEL AT
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 7
+Price: 19.46 Lakh
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: XUV700, Variant: AX7 EBONY EDITION 7STR AT
+URL 1/1 - Model: XUV700, Variant: AX7 6 STR DIESEL
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Price: 19.93 Lakh
+Price: 19.03 Lakh
+Seating Capacity: 6
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 13 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 13 kmpl
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 6
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: XUV700, Variant: AX7 6STR AT
+Price: 19.98 Lakh
+URL 1/1 - Model: XUV700, Variant: AX7 EBONY EDITION 6STR AT
+Price: 20.12 Lakh
+URL 1/1 - Model: XUV700, Variant: AX7 7STR DIESEL AT
+Price: 20.45 Lakh
+URL 1/1 - Model: XUV700, Variant: AX7 EBONY EDITION 6STR DIESEL AT
+Price: 20.78 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 13 kmpl
+Seating Capacity: 6
+URL 1/1 - Model: XUV700, Variant: AX7L 7STR DIESEL
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Price: 20.97 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 13 kmpl
+URL 1/1 - Model: XUV700, Variant: AX7L 6STR DIESEL
+Price: 21.20 Lakh
+Seating Capacity: 6
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: XUV700, Variant: AX7 6 STR DIESEL AT
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 6
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Price: 20.64 Lakh
+URL 1/1 - Model: XUV700, Variant: AX7L EBONY EDITION 7STR DIESEL
+Price: 21.11 Lakh
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 6
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 6
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: XUV700, Variant: AX7L EBONY EDITION 6STR DIESEL
+Price: 21.34 Lakh
+URL 1/1 - Model: XUV700, Variant: AX7 7STR DIESEL AT AWD
+Price: 21.58 Lakh
+URL 1/1 - Model: XUV700, Variant: AX7 EBONY EDITION 7STR DIESEL AT AWD
+Price: 21.72 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: XUV700, Variant: AX7L 7STR AT
+Price: 21.86 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: XUV700, Variant: AX7L EBONY EDITION 7STR AT
+Price: 22 Lakh
+Seating Capacity: 6
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: XUV700, Variant: AX7L 7STR DIESEL AT
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Price: 22.62 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 13 kmpl
+URL 1/1 - Model: XUV700, Variant: AX7L 6STR AT
+Price: 22.05 Lakh
+URL 1/1 - Model: XUV700, Variant: AX7L EBONY EDITION 6STR AT
+Seating Capacity: 7
+Price: 22.19 Lakh
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 13 kmpl
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Petrol, Petrol Mileage ARAI: 13 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 13 kmpl
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 6
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 6
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: XUV700, Variant: AX7L EBONY EDITION 7STR DIESEL AT
+Price: 22.76 Lakh
+URL 1/1 - Model: XUV700, Variant: AX7L 6STR DIESEL AT
+Price: 22.80 Lakh
+URL 1/1 - Model: XUV700, Variant: AX7L EBONY EDITION 6STR DIESEL AT
+Price: 22.95 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/1 - Model: XUV700, Variant: AX7L EBONY EDITION 7STR DIESEL AT AWD
+Price: 23.71 Lakh
+URL 1/1 - Model: XUV700, Variant: AX7L 7STR DIESEL AT AWD
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Price: 23.57 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 6
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 6
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------

@@ -29,7 +29,7 @@ class FeatureSpecificationFragmentSpider(scrapy.Spider):
             self.start_urls = [start_url]
         else:
             # Default URL - a variant page with radio buttons
-            self.start_urls = ["https://www.carwale.com/mahindra-cars/xuv-3xo/ax7/"]
+            self.start_urls = ["https://www.carwale.com/mahindra-cars/xuv700/ax7-luxury-pack/"]
 
     def start_requests(self):
         for url in self.start_urls:
