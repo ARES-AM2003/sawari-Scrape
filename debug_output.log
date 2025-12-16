@@ -1,0 +1,25 @@
+[INFO] Reading URLs from '/home/ares-am/Projects/BNT/scrapy/utils/variants_urls.txt'...
+[SUCCESS] Found 45 URL(s) to process
+
+💡 Configuration:
+   • 3 browsers × 4 tabs = 12 concurrent tabs
+   • Estimated memory: ~1500MB (~1.5GB)
+   • Theoretical speedup: 12x vs single tab
+
+================================================================================
+🚀 RUNNING MULTI-BROWSER VARIANT SPIDER
+================================================================================
+Total URLs to process: 45
+Number of browsers: 3
+Tabs per browser: 4
+Total concurrent tabs: 12
+Estimated memory usage: ~1500MB
+Output: Output/[ModelName]/Variants.csv
+Start time: 2025-12-11 09:01:32
+================================================================================
+
+[INFO] Split 45 URLs into 3 batches
+  Browser 1: 15 URLs
+  Browser 2: 15 URLs
+  Browser 3: 15 URLs
+

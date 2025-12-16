@@ -6147,3 +6147,588 @@ Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
 Seating Capacity: 7
 Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
 --------------------------------------------------------------------------------
+URL 1/1 - Model: XUV700, Variant: MX 7STR
+Price: 13.66 Lakh
+URL 1/1 - Model: XUV700, Variant: MX E 7STR
+Price: 14.13 Lakh
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+URL 1/15 - Model: XUV700, Variant: MX E 7STR DIESEL
+Price: 14.60 Lakh
+URL 1/15 - Model: XUV700, Variant: AX7 7STR DIESEL AT AWD
+Price: 21.58 Lakh
+URL 1/15 - Model: XUV700, Variant: AX7 EBONY EDITION 7STR DIESEL
+Price: 18.99 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+--------------------------------------------------------------------------------
+URL 2/15 - Model: XUV700, Variant: MX E 7STR DIESEL
+Price: 14.60 Lakh
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 2/15 - Model: XUV700, Variant: AX7 7STR DIESEL AT AWD
+Price: 21.58 Lakh
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 2/15 - Model: XUV700, Variant: AX7 EBONY EDITION 7STR DIESEL
+Price: 18.99 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 3/15 - Model: XUV700, Variant: MX E 7STR DIESEL
+Price: 14.60 Lakh
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 3/15 - Model: XUV700, Variant: AX7 7STR DIESEL AT AWD
+Price: 21.58 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 3/15 - Model: XUV700, Variant: AX7 EBONY EDITION 7STR DIESEL
+Price: 18.99 Lakh
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 4/15 - Model: XUV700, Variant: AX5 S E 7STR
+Price: 16.39 Lakh
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 4/15 - Model: XUV700, Variant: AX7L EBONY EDITION 7STR AT
+Price: 22 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 15 kmpl
+URL 4/15 - Model: XUV700, Variant: AX5 7 STR DIESEL AT
+Price: 19.46 Lakh
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 13 kmpl
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 5/15 - Model: XUV700, Variant: AX7L EBONY EDITION 7STR AT
+Price: 22 Lakh
+URL 5/15 - Model: XUV700, Variant: AX5 S 7 STR DIESEL
+Price: 16.72 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 13 kmpl
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 6/15 - Model: XUV700, Variant: AX7L EBONY EDITION 7STR AT
+Price: 22 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 6/15 - Model: XUV700, Variant: AX5 S 7 STR DIESEL
+Price: 16.72 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 13 kmpl
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 7
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 5/15 - Model: XUV700, Variant: AX5 7 STR DIESEL AT
+Price: 19.46 Lakh
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: , Petrol Mileage ARAI: 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+URL 1/15 - Model: XUV700, Variant: AX7 EBONY EDITION 7STR DIESEL
+Price: 18.99 Lakh
+URL 1/15 - Model: XUV700, Variant: MX E 7STR DIESEL
+Price: 14.60 Lakh
+URL 1/15 - Model: XUV700, Variant: AX7 7STR DIESEL AT AWD
+Price: 21.58 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 2/15 - Model: XUV700, Variant: AX7 EBONY EDITION 7STR DIESEL
+Price: 18.99 Lakh
+URL 2/15 - Model: XUV700, Variant: MX E 7STR DIESEL
+URL 2/15 - Model: XUV700, Variant: AX7 7STR DIESEL AT AWD
+Price: 21.58 Lakh
+Price: 14.60 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 3/15 - Model: XUV700, Variant: AX7 EBONY EDITION 7STR DIESEL
+Price: 18.99 Lakh
+URL 3/15 - Model: XUV700, Variant: AX7 7STR DIESEL AT AWD
+Price: 21.58 Lakh
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+URL 1/15 - Model: XUV700, Variant: AX7 EBONY EDITION 7STR DIESEL
+Price: 18.99 Lakh
+URL 1/15 - Model: XUV700, Variant: AX7 7STR DIESEL AT AWD
+Price: 21.58 Lakh
+URL 1/15 - Model: XUV700, Variant: MX E 7STR DIESEL
+Price: 14.60 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 2/15 - Model: XUV700, Variant: AX7 7STR DIESEL AT AWD
+Price: 21.58 Lakh
+URL 2/15 - Model: XUV700, Variant: AX7 EBONY EDITION 7STR DIESEL
+Price: 18.99 Lakh
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 2/15 - Model: XUV700, Variant: MX E 7STR DIESEL
+Price: 14.60 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 3/15 - Model: XUV700, Variant: AX7 7STR DIESEL AT AWD
+Price: 21.58 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 7
+URL 3/15 - Model: XUV700, Variant: AX7 EBONY EDITION 7STR DIESEL
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Price: 18.99 Lakh
+URL 3/15 - Model: XUV700, Variant: MX E 7STR DIESEL
+Price: 14.60 Lakh
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 4/15 - Model: XUV700, Variant: AX7L 7STR AT
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Price: 21.86 Lakh
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 13 kmpl
+URL 4/15 - Model: XUV700, Variant: AX5 S 7 STR DIESEL
+Price: 16.72 Lakh
+URL 4/15 - Model: XUV700, Variant: AX7 EBONY EDITION 6STR DIESEL
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Price: 19.17 Lakh
+URL 5/15 - Model: XUV700, Variant: AX7L EBONY EDITION 7STR AT
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Price: 22 Lakh
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 5/15 - Model: XUV700, Variant: AX5 S 7 STR DIESEL
+Price: 16.72 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 13 kmpl
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 6/15 - Model: XUV700, Variant: AX7L EBONY EDITION 7STR AT
+Price: 22 Lakh
+URL 6/15 - Model: XUV700, Variant: AX5 S 7 STR DIESEL
+Price: 16.72 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Petrol, Petrol Mileage ARAI: 13 kmpl
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 6
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 7/15 - Model: XUV700, Variant: AX7L EBONY EDITION 6STR AT
+Price: 22.19 Lakh
+URL 7/15 - Model: XUV700, Variant: AX5 E 7 STR
+Price: 17.76 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 13 kmpl
+URL 5/15 - Model: XUV700, Variant: AX5 7 STR DIESEL AT
+Price: 19.46 Lakh
+Seating Capacity: 6
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 
+URL 8/15 - Model: XUV700, Variant: AX7L 7STR DIESEL AT
+Price: 22.62 Lakh
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 8/15 - Model: XUV700, Variant: AX5 E 7 STR
+Price: 17.76 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Petrol, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+URL 1/15 - Model: XUV700, Variant: MX E 7STR DIESEL
+Price: 14.60 Lakh
+URL 1/15 - Model: XUV700, Variant: AX7 EBONY EDITION 7STR DIESEL
+Price: 18.99 Lakh
+URL 1/15 - Model: XUV700, Variant: AX7 7STR DIESEL AT AWD
+Price: 21.58 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 2/15 - Model: XUV700, Variant: MX E 7STR DIESEL
+URL 2/15 - Model: XUV700, Variant: AX7 EBONY EDITION 7STR DIESEL
+Price: 14.60 Lakh
+Seating Capacity: 7
+Price: 18.99 Lakh
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+URL 1/15 - Model: XUV700, Variant: AX7 EBONY EDITION 7STR DIESEL
+Price: 18.99 Lakh
+URL 1/15 - Model: XUV700, Variant: AX7 7STR DIESEL AT AWD
+Price: 21.58 Lakh
+URL 1/15 - Model: XUV700, Variant: MX E 7STR DIESEL
+Price: 14.60 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 2/15 - Model: XUV700, Variant: AX7 EBONY EDITION 7STR DIESEL
+Price: 18.99 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 2/15 - Model: XUV700, Variant: AX7 7STR DIESEL AT AWD
+Price: 21.58 Lakh
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+URL 1/15 - Model: XUV700, Variant: MX E 7STR DIESEL
+Price: 14.60 Lakh
+URL 1/15 - Model: XUV700, Variant: AX7 EBONY EDITION 7STR DIESEL
+Price: 18.99 Lakh
+URL 1/15 - Model: XUV700, Variant: AX7 7STR DIESEL AT AWD
+Price: 21.58 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 2/15 - Model: XUV700, Variant: MX E 7STR DIESEL
+Price: 14.60 Lakh
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 2/15 - Model: XUV700, Variant: AX7 EBONY EDITION 7STR DIESEL
+Price: 18.99 Lakh
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 2/15 - Model: XUV700, Variant: AX7 7STR DIESEL AT AWD
+Price: 21.58 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 3/15 - Model: XUV700, Variant: MX E 7STR DIESEL
+Price: 14.60 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 3/15 - Model: XUV700, Variant: AX7 EBONY EDITION 7STR DIESEL
+Price: 18.99 Lakh
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 3/15 - Model: XUV700, Variant: AX7 7STR DIESEL AT AWD
+Price: 21.58 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 4/15 - Model: XUV700, Variant: AX5 S 7 STR DIESEL
+Price: 16.72 Lakh
+URL 4/15 - Model: XUV700, Variant: AX5 7 STR DIESEL AT
+Price: 19.46 Lakh
+URL 4/15 - Model: XUV700, Variant: AX7L EBONY EDITION 7STR AT
+Price: 22 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 7
+URL 5/15 - Model: XUV700, Variant: AX5 S 7 STR DIESEL
+Fuel Type: Petrol, Petrol Mileage ARAI: 13 kmpl
+Price: 16.72 Lakh
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 5/15 - Model: XUV700, Variant: AX5 7 STR DIESEL AT
+Price: 19.46 Lakh
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 5/15 - Model: XUV700, Variant: AX7L EBONY EDITION 7STR AT
+Price: 22 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 6/15 - Model: XUV700, Variant: AX5 S 7 STR DIESEL
+Price: 16.72 Lakh
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 6/15 - Model: XUV700, Variant: AX5 7 STR DIESEL AT
+Price: 19.46 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 13 kmpl
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 6/15 - Model: XUV700, Variant: AX7L EBONY EDITION 7STR AT
+Price: 22 Lakh
+Fuel Type: , Petrol Mileage ARAI: 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+URL 1/15 - Model: XUV700, Variant: MX E 7STR DIESEL
+Price: 14.60 Lakh
+URL 1/15 - Model: XUV700, Variant: AX7 7STR DIESEL AT AWD
+Price: 21.58 Lakh
+URL 1/15 - Model: XUV700, Variant: AX7 EBONY EDITION 7STR DIESEL
+Price: 18.99 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 2/15 - Model: XUV700, Variant: MX E 7STR DIESEL
+Price: 14.60 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 2/15 - Model: XUV700, Variant: AX7 7STR DIESEL AT AWD
+Price: 21.58 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 2/15 - Model: XUV700, Variant: AX7 EBONY EDITION 7STR DIESEL
+Price: 18.99 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 3/15 - Model: XUV700, Variant: MX E 7STR DIESEL
+Price: 14.60 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 3/15 - Model: XUV700, Variant: AX7 7STR DIESEL AT AWD
+Price: 21.58 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 3/15 - Model: XUV700, Variant: AX7 EBONY EDITION 7STR DIESEL
+Price: 18.99 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 4/15 - Model: XUV700, Variant: AX5 S 7 STR DIESEL
+Price: 16.72 Lakh
+URL 4/15 - Model: XUV700, Variant: AX7L EBONY EDITION 7STR AT
+Price: 22 Lakh
+URL 4/15 - Model: XUV700, Variant: AX5 7 STR DIESEL AT
+Price: 19.46 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Petrol, Petrol Mileage ARAI: 13 kmpl
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 5/15 - Model: XUV700, Variant: AX5 S 7 STR DIESEL
+Price: 16.72 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 5/15 - Model: XUV700, Variant: AX7L EBONY EDITION 7STR AT
+Price: 22 Lakh
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 5/15 - Model: XUV700, Variant: AX5 7 STR DIESEL AT
+Price: 19.46 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Petrol, Petrol Mileage ARAI: 13 kmpl
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 6/15 - Model: XUV700, Variant: AX5 S 7 STR DIESEL
+Price: 16.72 Lakh
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 6/15 - Model: XUV700, Variant: AX7L EBONY EDITION 7STR AT
+Price: 22 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 6/15 - Model: XUV700, Variant: AX5 7 STR DIESEL AT
+Price: 19.46 Lakh
+Seating Capacity: 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+URL 1/15 - Model: XUV700, Variant: MX E 7STR DIESEL
+Price: 14.60 Lakh
+URL 1/15 - Model: XUV700, Variant: AX7 EBONY EDITION 7STR DIESEL
+Price: 18.99 Lakh
+URL 1/15 - Model: XUV700, Variant: AX7 7STR DIESEL AT AWD
+Price: 21.58 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 2/15 - Model: XUV700, Variant: MX E 7STR DIESEL
+Price: 14.60 Lakh
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 2/15 - Model: XUV700, Variant: AX7 7STR DIESEL AT AWD
+Price: 21.58 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 1/15 - Model: XUV700, Variant: MX E 7STR DIESEL
+Price: 14.60 Lakh
+URL 1/15 - Model: XUV700, Variant: AX7 7STR DIESEL AT AWD
+Price: 21.58 Lakh
+URL 1/15 - Model: XUV700, Variant: AX7 EBONY EDITION 7STR DIESEL
+Price: 18.99 Lakh
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Diesel, Petrol Mileage ARAI: 
+URL 2/15 - Model: XUV700, Variant: AX7 7STR DIESEL AT AWD
+Price: 21.58 Lakh
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 2/15 - Model: XUV700, Variant: AX7 EBONY EDITION 7STR DIESEL
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+URL 2/15 - Model: XUV700, Variant: MX E 7STR DIESEL
+Price: 14.60 Lakh
+Seating Capacity: 7
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
