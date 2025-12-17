@@ -15,11 +15,24 @@ class VariantsSpider(scrapy.Spider):
         super().__init__(*args, **kwargs)
         self.seen_variants = set()  # Track variants to prevent duplicates
 
-        # Accept URL from command line argument
+        # Accept URL from command line argument (single URL)
         url = kwargs.get('url')
         if url:
             self.start_urls = [url]
-            self.logger.info(f"Using URL from command line: {url}")
+            self.logger.info(f"Using single URL from command line: {url}")
+        
+        # Accept URLs from file (for batch processing with single browser + tabs)
+        urls_file = kwargs.get('urls_file')
+        if urls_file:
+            import os
+            if os.path.exists(urls_file):
+                with open(urls_file, 'r', encoding='utf-8') as f:
+                    urls = [line.strip() for line in f if line.strip()]
+                self.start_urls = urls
+                self.logger.info(f"✅ Loaded {len(urls)} URLs from file: {urls_file}")
+                self.logger.info(f"💡 Will use single browser with multiple tabs for parallel processing!")
+            else:
+                self.logger.error(f"❌ URLs file not found: {urls_file}")
 
     start_urls = [
         "https://www.cardekho.com/overview/Citroen_C3/Citroen_C3_X_Shine_Dual_Tone_CNG.htm",
@@ -37,8 +50,8 @@ class VariantsSpider(scrapy.Spider):
     ]
 
     custom_settings = {
-        'CONCURRENT_REQUESTS': 1,  # Process one URL at a time
-        'DOWNLOAD_DELAY': 3,  # Add delay between requests
+        # Note: CONCURRENT_REQUESTS_PER_DOMAIN and SELENIUM_MAX_TABS will be set via command line
+        # when using the run_variants_parallel.py script for optimal multi-tab performance
         'DUPEFILTER_CLASS': 'scrapy.dupefilters.RFPDupeFilter',  # Enable duplicate filtering
         'ITEM_PIPELINES': {
             'sawari-expert.pipelines.VariantInfoCsvPipeline': 800,

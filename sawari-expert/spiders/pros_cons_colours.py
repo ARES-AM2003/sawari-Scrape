@@ -14,12 +14,12 @@ import os
 class ProsConsColoursSpider(scrapy.Spider):
     name = "pros_cons_colours"
     allowed_domains = ["cardekho.com"]
-    start_urls = ["https://www.cardekho.com/carmodels/Maruti/Maruti_Ciaz"]
+    start_urls = ["https://www.cardekho.com/mahindra/xuv700"]
 
     # Extract brand and model from start_urls
 
-    brand_name = 'Maruti'
-    model_name = 'Ciaz'
+    brand_name = 'Mahindra'
+    model_name = 'xuv700'
 
     custom_settings = {
         'ITEM_PIPELINES': {
@@ -131,10 +131,35 @@ class ProsConsColoursSpider(scrapy.Spider):
         pros_cons_items = []
 
         try:
-            # Find pros and cons section by h2
-            pros_cons_heading = WebDriverWait(driver, 10).until(
-                EC.presence_of_element_located((By.XPATH, f"//h2[contains(text(), 'Pros & Cons of')]"))
-            )
+            # Try multiple XPath patterns to find pros and cons section
+            pros_cons_heading = None
+            xpaths_to_try = [
+                "//h2[contains(text(), 'Pros and Cons of')]",
+                "//h2[contains(text(), 'Pros & Cons')]",
+                "//h2[contains(text(), 'pros and cons')]",
+                "//div[contains(@class, 'prosConsSection')]",
+                "//section[contains(@class, 'proscons')]"
+            ]
+            
+            for xpath in xpaths_to_try:
+                try:
+                    pros_cons_heading = WebDriverWait(driver, 5).until(
+                        EC.presence_of_element_located((By.XPATH, xpath))
+                    )
+                    self.logger.info(f"Found pros/cons section using xpath: {xpath}")
+                    break
+                except:
+                    continue
+            
+            if not pros_cons_heading:
+                self.logger.warning("Pros and cons section not found with any XPath. Checking page source...")
+                page_source = driver.page_source
+                if "pros" in page_source.lower() or "cons" in page_source.lower():
+                    self.logger.warning("Pros/cons text found in page but couldn't locate element")
+                else:
+                    self.logger.warning("No pros/cons text found in page at all")
+                driver.save_screenshot("error_pros_cons_not_found.png")
+                return pros_cons_items
 
             # Scroll to pros and cons section
             driver.execute_script("arguments[0].scrollIntoView({behavior: 'smooth', block: 'center'});", pros_cons_heading)
@@ -143,43 +168,94 @@ class ProsConsColoursSpider(scrapy.Spider):
             # Take screenshot for debugging
             driver.save_screenshot("pros_cons_section.png")
 
-            # Extract pros
+            # Click "View More" button to expand full pros/cons list if present
             try:
-                pros_container = WebDriverWait(driver, 10).until(
-                    EC.presence_of_element_located((By.XPATH, "//div[contains(@class, 'rightthings')][.//h3[contains(text(), 'Things We Like')]]"))
-                )
+                view_more_buttons = driver.find_elements(By.XPATH, "//div[contains(@class, 'linkBlack') and contains(@class, 'hover') and contains(text(), 'View More')]")
+                for button in view_more_buttons:
+                    try:
+                        driver.execute_script("arguments[0].scrollIntoView({behavior: 'smooth', block: 'center'});", button)
+                        time.sleep(1)
+                        driver.execute_script("arguments[0].click();", button)
+                        self.logger.info("Clicked 'View More' button to expand pros/cons")
+                        time.sleep(2)
+                    except Exception as e:
+                        self.logger.warning(f"Could not click View More button: {e}")
+            except Exception as e:
+                self.logger.info(f"No 'View More' button found or already expanded: {e}")
 
-                pros_list = pros_container.find_elements(By.XPATH, ".//ul/li")
+            # Extract pros with multiple XPath attempts
+            try:
+                pros_xpaths = [
+                    "//div[contains(@class, 'rightthings')][.//h3[contains(text(), 'Things We Like')]]",
+                    "//div[contains(@class, 'pros')]//ul",
+                    "//div[contains(@class, 'rightthings')]"
+                ]
+                
+                pros_container = None
+                for xpath in pros_xpaths:
+                    try:
+                        pros_container = WebDriverWait(driver, 5).until(
+                            EC.presence_of_element_located((By.XPATH, xpath))
+                        )
+                        self.logger.info(f"Found pros container using: {xpath}")
+                        break
+                    except:
+                        continue
 
-                for pro_item in pros_list:
-                    pro_text = pro_item.text.strip()
-                    if pro_text:
-                        pros_cons_items.append({
-                            "modelName": model_name,
-                            "prosConsType": "Pro",
-                            "prosConsContent": pro_text
-                        })
-                        self.logger.info(f"Extracted pro: {pro_text}")
+                if pros_container:
+                    pros_list = pros_container.find_elements(By.XPATH, ".//ul/li")
+                    if not pros_list:
+                        pros_list = pros_container.find_elements(By.XPATH, ".//li")
+
+                    for pro_item in pros_list:
+                        pro_text = pro_item.text.strip()
+                        if pro_text:
+                            pros_cons_items.append({
+                                "modelName": model_name,
+                                "prosConsType": "Pro",
+                                "prosConsContent": pro_text
+                            })
+                            self.logger.info(f"Extracted pro: {pro_text}")
+                else:
+                    self.logger.warning("Could not find pros container with any XPath")
             except Exception as e:
                 self.logger.error(f"Error extracting pros: {e}")
 
-            # Extract cons
+            # Extract cons with multiple XPath attempts
             try:
-                cons_container = WebDriverWait(driver, 10).until(
-                    EC.presence_of_element_located((By.XPATH, "//div[contains(@class, 'rightthings') and contains(@class, 'wrongthings')]"))
-                )
+                cons_xpaths = [
+                    "//div[contains(@class, 'rightthings') and contains(@class, 'wrongthings')]",
+                    "//div[contains(@class, 'cons')]//ul",
+                    "//div[contains(@class, 'wrongthings')]"
+                ]
+                
+                cons_container = None
+                for xpath in cons_xpaths:
+                    try:
+                        cons_container = WebDriverWait(driver, 5).until(
+                            EC.presence_of_element_located((By.XPATH, xpath))
+                        )
+                        self.logger.info(f"Found cons container using: {xpath}")
+                        break
+                    except:
+                        continue
 
-                cons_list = cons_container.find_elements(By.XPATH, ".//ul/li")
+                if cons_container:
+                    cons_list = cons_container.find_elements(By.XPATH, ".//ul/li")
+                    if not cons_list:
+                        cons_list = cons_container.find_elements(By.XPATH, ".//li")
 
-                for con_item in cons_list:
-                    con_text = con_item.text.strip()
-                    if con_text:
-                        pros_cons_items.append({
-                            "modelName": model_name,
-                            "prosConsType": "Con",
-                            "prosConsContent": con_text
-                        })
-                        self.logger.info(f"Extracted con: {con_text}")
+                    for con_item in cons_list:
+                        con_text = con_item.text.strip()
+                        if con_text:
+                            pros_cons_items.append({
+                                "modelName": model_name,
+                                "prosConsType": "Con",
+                                "prosConsContent": con_text
+                            })
+                            self.logger.info(f"Extracted con: {con_text}")
+                else:
+                    self.logger.warning("Could not find cons container with any XPath")
             except Exception as e:
                 self.logger.error(f"Error extracting cons: {e}")
 
@@ -242,17 +318,47 @@ class ProsConsColoursSpider(scrapy.Spider):
                         color_name = "Unknown Color"
 
                     # Extract style from <i> (coloredIcon)
+                    color_hex = ""
                     try:
                         icon_elem = li.find_element(By.XPATH, ".//i[contains(@class, 'coloredIcon')]")
                         style = icon_elem.get_attribute("style")
-                        match = re.search(r"(rgb[a]?\([^)]+\)|#[0-9a-fA-F]{3,6})", style)
-                        color_hex = match.group(1) if match else ""
-                    except Exception:
+                        
+                        if style:
+                            match = re.search(r"(rgb[a]?\([^)]+\)|#[0-9a-fA-F]{3,6})", style)
+                            if match:
+                                color_hex = match.group(1)
+                                
+                                # Convert rgb to hex if needed
+                                if color_hex.lower().startswith('rgb'):
+                                    rgb_values = color_hex.strip().lower().replace('rgb(', '').replace('rgba(', '').replace(')', '').split(',')
+                                    if len(rgb_values) >= 3:
+                                        try:
+                                            r, g, b = [int(x.strip()) for x in rgb_values[:3]]
+                                            color_hex = f"#{r:02X}{g:02X}{b:02X}"
+                                        except (ValueError, IndexError) as e:
+                                            self.logger.warning(f"Could not parse RGB values for {color_name}: {rgb_values}")
+                                            color_hex = ""
+                        
+                        # If no style or color found, try getting background-color from computed style
+                        if not color_hex:
+                            try:
+                                bg_color = driver.execute_script("return window.getComputedStyle(arguments[0]).backgroundColor;", icon_elem)
+                                if bg_color and bg_color != "rgba(0, 0, 0, 0)" and bg_color != "transparent":
+                                    match = re.search(r"rgb[a]?\(([^)]+)\)", bg_color)
+                                    if match:
+                                        rgb_values = match.group(1).split(',')
+                                        if len(rgb_values) >= 3:
+                                            try:
+                                                r, g, b = [int(x.strip()) for x in rgb_values[:3]]
+                                                color_hex = f"#{r:02X}{g:02X}{b:02X}"
+                                            except (ValueError, IndexError):
+                                                pass
+                            except Exception as e:
+                                self.logger.debug(f"Could not get computed background color: {e}")
+                                
+                    except Exception as e:
+                        self.logger.warning(f"Error extracting color hex for {color_name}: {e}")
                         color_hex = ""
-
-                    rgb_values = color_hex.strip().lower().replace('rgb(', '').replace(')', '').split(',')
-                    r, g, b = [int(x.strip()) for x in rgb_values]
-                    color_hex =  f"#{r:02X}{g:02X}{b:02X}"
 
                     # Add to our items list
                     color_item = {

@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-Script to run multiple variant spiders in parallel from a URL list.
+Script to run variant spider with multiple browsers, each with multiple tabs.
 - Reads URLs from variants_urls.txt (comma or newline separated)
-- Runs 10 variant spiders in parallel
-- Cleans the output CSV by removing duplicate headers
+- Spawns multiple browser instances, each with multiple tabs for parallel processing
+- Balances memory usage with parallelism
 - Outputs to Output/[ModelName]/Variants.csv
 """
 
@@ -12,9 +12,10 @@ import sys
 import time
 import os
 import csv
-from multiprocessing import Process, Queue
+from multiprocessing import Process
 from datetime import datetime
 import re
+import math
 
 
 def read_urls_from_file(filename):
@@ -68,152 +69,170 @@ def extract_model_name_from_csv(csv_file):
     return None
 
 
-def run_spider_with_url(spider_name, url, url_index, total_urls, project_root, queue):
+def create_urls_file(urls, temp_file_path):
     """
-    Run a single spider with a specific URL.
+    Create a temporary file with URLs for the spider to process.
+    
+    Args:
+        urls: List of URLs
+        temp_file_path: Path to write the temporary file
+    """
+    with open(temp_file_path, 'w', encoding='utf-8') as f:
+        for url in urls:
+            f.write(f"{url}\n")
 
+
+
+
+def run_spider_process(spider_name, urls, tabs_per_browser, project_root, browser_id, total_browsers):
+    """
+    Run a single spider process (one browser with multiple tabs) with a batch of URLs.
+    
     Args:
         spider_name: Name of the spider to run
-        url: The URL to scrape
-        url_index: Index of the current URL
-        total_urls: Total number of URLs
+        urls: List of URLs for this browser to process
+        tabs_per_browser: Number of tabs in this browser
         project_root: Root directory of the scrapy project
-        queue: Queue to store the result
+        browser_id: ID of this browser instance
+        total_browsers: Total number of browsers being used
+    
+    Returns:
+        Success status
     """
-    timestamp = datetime.now().strftime('%H:%M:%S')
-    print(f"[{timestamp}] [{url_index}/{total_urls}] Starting spider for: {url}")
+    total_urls = len(urls)
+    
+    print(f"\n[Browser {browser_id}/{total_browsers}] Starting with {total_urls} URLs and {tabs_per_browser} tabs")
+    
+    # Create temporary file with URLs for this browser
+    temp_urls_file = os.path.join(project_root, 'utils', f'temp_browser_{browser_id}_urls.txt')
+    create_urls_file(urls, temp_urls_file)
+    
     start_time = time.time()
-
+    
     try:
-        # Run the spider using scrapy crawl command with custom settings
-        # Pipeline will handle output to Output/[ModelName]/Variants.csv
+        # Run spider process with this batch of URLs
         result = subprocess.run(
             [
                 'scrapy', 'crawl', spider_name,
-                '-a', f'url={url}',
+                '-a', f'urls_file={temp_urls_file}',
                 '-s', 'LOG_LEVEL=INFO',
-                '-s', 'CONCURRENT_REQUESTS=1',
-                '-s', 'DOWNLOAD_DELAY=3'
+                '-s', f'CONCURRENT_REQUESTS_PER_DOMAIN={tabs_per_browser}',
+                '-s', f'SELENIUM_MAX_TABS={tabs_per_browser}',
+                '-s', 'DOWNLOAD_DELAY=1'
             ],
             capture_output=True,
             text=True,
             cwd=project_root
         )
-
+        
         elapsed_time = time.time() - start_time
-
+        
+        # Cleanup temp file
+        if os.path.exists(temp_urls_file):
+            os.remove(temp_urls_file)
+        
         if result.returncode == 0:
-            timestamp = datetime.now().strftime('%H:%M:%S')
-            print(f"[{timestamp}] [{url_index}/{total_urls}] ✓ Completed in {elapsed_time:.2f}s")
-            queue.put((url_index, 'success', elapsed_time, url))
+            print(f"[Browser {browser_id}/{total_browsers}] ✅ Completed in {elapsed_time:.2f}s")
+            return True
         else:
-            timestamp = datetime.now().strftime('%H:%M:%S')
-            print(f"[{timestamp}] [{url_index}/{total_urls}] ✗ Failed with exit code {result.returncode}")
+            print(f"[Browser {browser_id}/{total_browsers}] ❌ Failed with exit code {result.returncode}")
             if result.stderr:
-                print(f"[ERROR] {result.stderr[:200]}")
-            queue.put((url_index, 'failed', elapsed_time, url))
-
+                print(f"[Browser {browser_id}] Error: {result.stderr[:200]}")
+            return False
+            
     except Exception as e:
         elapsed_time = time.time() - start_time
-        timestamp = datetime.now().strftime('%H:%M:%S')
-        print(f"[{timestamp}] [{url_index}/{total_urls}] ✗ Error: {e}")
-        queue.put((url_index, 'error', elapsed_time, url))
+        print(f"[Browser {browser_id}/{total_browsers}] ❌ Error: {e}")
+        
+        # Cleanup temp file on error
+        if os.path.exists(temp_urls_file):
+            os.remove(temp_urls_file)
+        
+        return False
 
 
-
-
-def run_spiders_in_batches(spider_name, urls, batch_size, project_root):
+def run_multi_browser_spider(spider_name, urls, num_browsers, tabs_per_browser, project_root):
     """
-    Run spiders in batches with parallel execution.
-
+    Run multiple browser instances, each with multiple tabs, for parallel processing.
+    
     Args:
         spider_name: Name of the spider to run
-        urls: List of URLs to process
-        batch_size: Number of spiders to run in parallel
+        urls: List of all URLs to process
+        num_browsers: Number of browser instances to spawn
+        tabs_per_browser: Number of tabs per browser
         project_root: Root directory of the scrapy project
-
+    
     Returns:
-        Tuple of (success_count, failed_count)
+        Tuple of (success_count, failed_count, elapsed_time)
     """
     total_urls = len(urls)
-    result_queue = Queue()
-    all_results = []
-
+    total_tabs = num_browsers * tabs_per_browser
+    total_memory = num_browsers * (400 + tabs_per_browser * 25)  # Rough estimate
+    
     print("=" * 80)
-    print("RUNNING VARIANT SPIDERS IN PARALLEL")
+    print("🚀 RUNNING MULTI-BROWSER VARIANT SPIDER")
     print("=" * 80)
     print(f"Total URLs to process: {total_urls}")
-    print(f"Parallel workers: {batch_size}")
-    print(f"Output will be written to: Output/[ModelName]/Variants.csv")
+    print(f"Number of browsers: {num_browsers}")
+    print(f"Tabs per browser: {tabs_per_browser}")
+    print(f"Total concurrent tabs: {total_tabs}")
+    print(f"Estimated memory usage: ~{total_memory}MB")
+    print(f"Output: Output/[ModelName]/Variants.csv")
     print(f"Start time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 80)
     print()
-
+    
+    # Split URLs evenly across browsers
+    urls_per_browser = math.ceil(total_urls / num_browsers)
+    url_batches = []
+    
+    for i in range(num_browsers):
+        start_idx = i * urls_per_browser
+        end_idx = min((i + 1) * urls_per_browser, total_urls)
+        batch = urls[start_idx:end_idx]
+        if batch:  # Only add non-empty batches
+            url_batches.append(batch)
+    
+    actual_browsers = len(url_batches)
+    print(f"[INFO] Split {total_urls} URLs into {actual_browsers} batches")
+    for i, batch in enumerate(url_batches, 1):
+        print(f"  Browser {i}: {len(batch)} URLs")
+    print()
+    
     overall_start_time = time.time()
-
-    # Process URLs in batches
-    for batch_start in range(0, total_urls, batch_size):
-        batch_end = min(batch_start + batch_size, total_urls)
-        batch_urls = urls[batch_start:batch_end]
-
-        print(f"\n[BATCH] Processing URLs {batch_start + 1} to {batch_end} of {total_urls}")
-        print("-" * 80)
-
-        processes = []
-
-        for i, url in enumerate(batch_urls):
-            url_index = batch_start + i + 1
-            process = Process(
-                target=run_spider_with_url,
-                args=(spider_name, url, url_index, total_urls, project_root, result_queue)
-            )
-            process.start()
-            processes.append(process)
-            time.sleep(0.5)  # Small delay to avoid conflicts
-
-        # Wait for all processes in this batch to complete
-        for process in processes:
-            process.join()
-
-        print(f"[BATCH] Completed URLs {batch_start + 1} to {batch_end}")
-
-    # Collect all results
-    while not result_queue.empty():
-        result = result_queue.get()
-        all_results.append(result)
-
+    
+    # Start all browser processes
+    processes = []
+    for i, batch in enumerate(url_batches, 1):
+        process = Process(
+            target=run_spider_process,
+            args=(spider_name, batch, tabs_per_browser, project_root, i, actual_browsers)
+        )
+        process.start()
+        processes.append(process)
+        time.sleep(0.5)  # Small delay between browser launches
+    
+    # Wait for all processes to complete
+    print(f"\n[INFO] All {actual_browsers} browsers started. Waiting for completion...")
+    for process in processes:
+        process.join()
+    
     total_time = time.time() - overall_start_time
-
-    # Sort results by URL index
-    all_results.sort(key=lambda x: x[0])
-
+    
     # Display summary
     print("\n" + "=" * 80)
     print("EXECUTION SUMMARY")
     print("=" * 80)
-
-    success_count = 0
-    failed_count = 0
-
-    for url_index, status, elapsed, url in all_results:
-        status_icon = "✓" if status == "success" else "✗"
-        status_text = status.upper()
-        short_url = url[:60] + "..." if len(url) > 60 else url
-        print(f"{status_icon} [{url_index:3d}] {status_text:10s} ({elapsed:6.2f}s) - {short_url}")
-
-        if status == "success":
-            success_count += 1
-        else:
-            failed_count += 1
-
-    print("=" * 80)
+    print(f"Total browsers used: {actual_browsers}")
+    print(f"Tabs per browser: {tabs_per_browser}")
+    print(f"Total URLs processed: {total_urls}")
     print(f"Total execution time: {total_time:.2f}s")
-    print(f"Successful: {success_count}/{total_urls}")
-    print(f"Failed: {failed_count}/{total_urls}")
+    print(f"Average time per URL: {total_time/total_urls:.2f}s")
+    print(f"Theoretical speedup: ~{total_tabs}x")
     print(f"End time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 80)
-
-    return success_count, failed_count
+    
+    return total_time
 
 
 def main():
@@ -226,7 +245,8 @@ def main():
     # Configuration
     INPUT_FILE = os.path.join(script_dir, 'variants_urls.txt')
     SPIDER_NAME = 'variants'
-    BATCH_SIZE = 10  # Number of parallel spiders
+    NUM_BROWSERS = 3  # Number of browser instances to spawn
+    TABS_PER_BROWSER = 4  # Number of tabs per browser
 
     # Check if scrapy.cfg exists in project root
     scrapy_cfg = os.path.join(project_root, 'scrapy.cfg')
@@ -247,20 +267,25 @@ def main():
     print(f"[SUCCESS] Found {len(urls)} URL(s) to process")
     print()
 
-    # Run spiders in batches (pipeline handles output)
-    success_count, failed_count = run_spiders_in_batches(
-        SPIDER_NAME, urls, BATCH_SIZE, project_root
+    # Calculate statistics
+    total_tabs = NUM_BROWSERS * TABS_PER_BROWSER
+    estimated_memory = NUM_BROWSERS * (400 + TABS_PER_BROWSER * 25)
+    
+    print(f"💡 Configuration:")
+    print(f"   • {NUM_BROWSERS} browsers × {TABS_PER_BROWSER} tabs = {total_tabs} concurrent tabs")
+    print(f"   • Estimated memory: ~{estimated_memory}MB (~{estimated_memory/1024:.1f}GB)")
+    print(f"   • Theoretical speedup: {total_tabs}x vs single tab")
+    print()
+    
+    # Run multi-browser spider
+    elapsed_time = run_multi_browser_spider(
+        SPIDER_NAME, urls, NUM_BROWSERS, TABS_PER_BROWSER, project_root
     )
 
     print(f"\n[INFO] All variants have been written to Output/[ModelName]/Variants.csv by the pipeline")
-
-    # Exit with appropriate code
-    if failed_count > 0:
-        print(f"\n[WARNING] {failed_count} spider(s) failed. Check the logs above for details.")
-        sys.exit(1)
-    else:
-        print(f"\n[SUCCESS] All spiders completed successfully!")
-        sys.exit(0)
+    print(f"\n✅ [SUCCESS] Completed in {elapsed_time:.2f}s!")
+    print(f"💡 Used {NUM_BROWSERS} browsers with {TABS_PER_BROWSER} tabs each")
+    sys.exit(0)
 
 
 if __name__ == "__main__":

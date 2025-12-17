@@ -23,8 +23,8 @@ ROBOTSTXT_OBEY = False  # Set to False to allow scraping if the website blocks b
 
 # Concurrency and throttling settings
 CONCURRENT_REQUESTS = 16  # Default is 16 requests, feel free to adjust as per the server load
-CONCURRENT_REQUESTS_PER_DOMAIN = 1  # Scrape one domain at a time to avoid overloading the server
-DOWNLOAD_DELAY = 1  # This delay is set to 1 second to reduce the rate of requests
+CONCURRENT_REQUESTS_PER_DOMAIN = 4  # Now safe with multiple tabs! 4 parallel requests per domain
+DOWNLOAD_DELAY = 0.5  # Reduced delay since we're using tabs efficiently
 
 # Disabling cookies by default for cleaner scraping, unless the website needs cookies.
 COOKIES_ENABLED = False  # Set to True if the website requires cookies for functionality
@@ -42,6 +42,10 @@ TELNETCONSOLE_ENABLED = False  # Disable Telnet console to avoid unnecessary ove
 # DOWNLOADER_MIDDLEWARES = {
 #     'sawariexpert.middlewares.SeleniumMiddleware': 800,
 # }
+
+# ✅ Selenium Multi-Tab Settings (Each Browser Instance Uses Multiple Tabs)
+SELENIUM_MAX_TABS = 4  # Number of tabs per browser instance
+SELENIUM_BROWSER = 'firefox'  # 'firefox' or 'chrome'
 
 # Configure item pipelines
 # ITEM_PIPELINES = {
@@ -77,9 +81,17 @@ FEED_EXPORT_ENCODING = "utf-8"  # Ensure the output file is saved in UTF-8 encod
 
 # **Selenium Settings:**
 DOWNLOADER_MIDDLEWARES = {
-    'sawari-expert.middlewares.SeleniumMiddleware': 543,  # Adjust priority if needed
+    'sawari-expert.middlewares.SeleniumMiddleware': 543,  # Single browser with multiple tabs
     # Other middlewares can be added here
 }
+
+# 💡 Performance Notes with Multi-Tab Setup:
+# - SELENIUM_MAX_TABS=4: Each browser has 4 tabs (~550MB per browser)
+# - CONCURRENT_REQUESTS_PER_DOMAIN=4: Matches tab count for optimal performance
+# - Single browser with 4 tabs: ~550MB (vs 1800MB for 4 separate browsers)
+# - 3 browsers × 4 tabs each = 12 concurrent requests (~1.65GB total)
+# - Your 8GB RAM can comfortably handle 3-4 browsers with 4 tabs each
+# - Adjust run_variants_parallel.py to set NUM_BROWSERS and TABS_PER_BROWSER
 
 
 # Selenium settings for Firefox
